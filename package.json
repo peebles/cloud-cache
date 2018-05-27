@@ -1,5 +1,5 @@
 {
-  "name": "cloud-cache",
+  "name": "cloud-kv-cache",
   "version": "1.0.0",
   "description": "Simple abstraction for a caching key/vale store.  Supports in memory or redis.",
   "main": "index.js",
