@@ -6,8 +6,12 @@ using redis.
 
 ## Usage 
 
+```sh
+npm install --save cloud-kv-cache
+```
+
 ```javascript
-cache = require( 'cloud-cache' )({
+cache = require( 'cloud-kv-cache' )({
   type: 'memory' or 'redis',
   options: {
     ttl:  ttl for redis in seconds
