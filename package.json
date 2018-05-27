@@ -1,0 +1,14 @@
+{
+  "name": "cloud-cache",
+  "version": "1.0.0",
+  "description": "Simple abstraction for a caching key/vale store.  Supports in memory or redis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Peebles",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
